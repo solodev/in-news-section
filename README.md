@@ -1,7 +1,7 @@
 # in-news-section
 
 ## Tutorial		  
-For detailed instruction's, view Solodev's [How to Style an In the News Section for Your Website](ADD LINK) article.
+For detailed instruction's, view Solodev's [How to Style an In the News Section for Your Website](https://www.solodev.com/blog/web-design/how-to-style-an-in-the-news-section-for-your-website.stml) article.
  
 ## Demo
   		  
